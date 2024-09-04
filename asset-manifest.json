@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/VitaliyYurkevich/radio-player-react/static/css/main.f36b2bf5.css",
-    "main.js": "/VitaliyYurkevich/radio-player-react/static/js/main.ba966a65.js",
-    "static/js/453.7484cefe.chunk.js": "/VitaliyYurkevich/radio-player-react/static/js/453.7484cefe.chunk.js",
-    "static/media/radio-icon.jpg": "/VitaliyYurkevich/radio-player-react/static/media/radio-icon.7985fd3d8e748562c46c.jpg",
-    "index.html": "/VitaliyYurkevich/radio-player-react/index.html",
-    "main.f36b2bf5.css.map": "/VitaliyYurkevich/radio-player-react/static/css/main.f36b2bf5.css.map",
-    "main.ba966a65.js.map": "/VitaliyYurkevich/radio-player-react/static/js/main.ba966a65.js.map",
-    "453.7484cefe.chunk.js.map": "/VitaliyYurkevich/radio-player-react/static/js/453.7484cefe.chunk.js.map"
+    "main.css": "/vitaliyyurkevich/radio-player-react/static/css/main.f36b2bf5.css",
+    "main.js": "/vitaliyyurkevich/radio-player-react/static/js/main.4f42932c.js",
+    "static/js/453.7484cefe.chunk.js": "/vitaliyyurkevich/radio-player-react/static/js/453.7484cefe.chunk.js",
+    "static/media/radio-icon.jpg": "/vitaliyyurkevich/radio-player-react/static/media/radio-icon.7985fd3d8e748562c46c.jpg",
+    "index.html": "/vitaliyyurkevich/radio-player-react/index.html",
+    "main.f36b2bf5.css.map": "/vitaliyyurkevich/radio-player-react/static/css/main.f36b2bf5.css.map",
+    "main.4f42932c.js.map": "/vitaliyyurkevich/radio-player-react/static/js/main.4f42932c.js.map",
+    "453.7484cefe.chunk.js.map": "/vitaliyyurkevich/radio-player-react/static/js/453.7484cefe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f36b2bf5.css",
-    "static/js/main.ba966a65.js"
+    "static/js/main.4f42932c.js"
   ]
 }
